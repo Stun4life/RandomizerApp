@@ -1,0 +1,4 @@
+rootProject.name = "RandomizerApp"
+include ':app'
+include ':app2'
+include ':library'
